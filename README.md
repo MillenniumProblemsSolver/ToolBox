@@ -123,6 +123,9 @@ On this page are some useful tools for software development and hacking. Fell fr
 ## Active Directory
 - [pingcastle](https://www.pingcastle.com/) a AD Security scanner
 
+## Virtual Boxes
+- [Windows development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+
 ## others
 - [notepad++](https://notepad-plus-plus.org/)
 - [Winmerge](https://winmerge.org/?lang=en)
